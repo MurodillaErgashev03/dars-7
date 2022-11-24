@@ -158,6 +158,10 @@ body {
   .hero__box-left {
     margin-bottom: 40px;
   }
+  .hero__box-left {
+    width: 320px;
+    height: 48px;
+  }
 }
 .flag__container {
   margin-top: 50px;
